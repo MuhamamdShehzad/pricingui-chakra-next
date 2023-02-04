@@ -40,7 +40,7 @@ export default function Pricing() {
           </Button>
         </Box>
         {/* right box */}
-        <Box pt="50px" pl="25px" pr="10px">
+        <Box pt="50px" pl="25px" pr="12px">
           <Text mb="10px">
             Access these features when you get this pricing package for your
             business.
